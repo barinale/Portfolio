@@ -1,0 +1,17 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+}
+ul{list-style-type: none;}
+a{text-decoration: none;color:white;}
+.content{
+    width:80%;
+    margin: auto
+}
+#SectionHeader{
+ background-color: #252734;
+}
+#SectionHeader header{
+    display: flex;
+}
